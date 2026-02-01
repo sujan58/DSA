@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sujan58/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sujan58/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -22,6 +23,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sujan58/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |

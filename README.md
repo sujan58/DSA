@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sujan58/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sujan58/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -43,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sujan58/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sujan58/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sujan58/DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |

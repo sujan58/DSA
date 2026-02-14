@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/sujan58/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sujan58/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/sujan58/DSA/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sujan58/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/sujan58/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sujan58/DSA/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sujan58/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |

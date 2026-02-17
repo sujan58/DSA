@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/sujan58/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sujan58/DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sujan58/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/sujan58/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/sujan58/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |

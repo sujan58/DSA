@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujan58/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujan58/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sujan58/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sujan58/DSA/tree/master/0136-single-number) |
@@ -27,6 +28,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujan58/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujan58/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sujan58/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |

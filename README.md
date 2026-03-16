@@ -6,6 +6,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujan58/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sujan58/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/sujan58/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sujan58/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sujan58/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sujan58/DSA/tree/master/0268-missing-number) |
@@ -67,4 +68,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sujan58/DSA/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sujan58/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/sujan58/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

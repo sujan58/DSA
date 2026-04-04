@@ -1,0 +1,1 @@
+import sysinput = sys.stdin.readline t = int(input())for _ in range(t):    n = int(input())    res = []    large = n + 1    for i in range(1, n + 1):        res.extend([i, large, large + 1])        large += 2    print(*res)
